@@ -252,4 +252,113 @@ border-radius: 10px;
     margin-right: 10px;
     margin-bottom: 5px;
   }
+  @media screen and (max-width:600px) {
+    .banner-background{
+        width:100% ;
+    }
+    .destination{
+        width: 100%;
+    }
+    .popular-tour {
+        display: block;
+    }
+    .popular-tour-description {
+        width: 100%;
+    }
+    .popular-tour-image img {
+        width: 100%;
+    }
+    .destination-images-two{
+        display: block;
+        
+    }
+    .maldives img{
+        width: 335px;
+        height: 176px;
+    }
+    .indonesia img{
+        width: 335px;
+        height: 176px;
+    }
+    .destination-images-three{
+        display: block;
+    }
+    .shrilanka img {
+        width: 335px;
+        height: 176px;
+    }
+    .north-america img {
+        width: 335px;
+        height: 176px;
+    }
+    .kashmir img {
+        width: 335px;
+        height: 176px;
+    }
+    .destination-images-last{
+        display: block;
+    }
+    .bangladesh img {
+        width: 335px;
+        height: 176px;
+    }
+    .bandarban img {
+        width: 335px;
+        height: 176px;
+    }
+    .choose-us{
+        width:100%;
+
+    }
+    .two-features{
+        display: block;
+    }
+    .handpicked {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 200px;
+        
+        
+    }
+    .service {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 200px;
+
+    }
+    .guarantee {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 200px;
+
+    }
+    .deal-and-discount-text{
+        width:100% ;
+    }
+    .perfect-place {
+        display: block;
+    }
+    .perfect-place-description{
+        width:100% ;
+    }
+    .mountain-in-bangladesh img {
+        width:100% ;
+    }
+    .newsletter {
+        display: block;
+    }
+    .newsletter-form {
+        width:100% ;
+       align-items: center;
+
+    }
+    .newsletter-image img {
+        width:100% ;
+        margin-top: 20px;
+    }
+    .footer{
+        width: 100%;
+    }
+
+ }
 
